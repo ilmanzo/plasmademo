@@ -1,0 +1,17 @@
+name: plasmademo
+version: 0.1.0
+
+authors:
+  - Andrea Manzini <ilmanzo@gmail.com>
+
+targets:
+  plasmademo:
+    main: src/plasmademo.cr
+
+crystal: 1.8.2
+
+dependencies:
+  raylib-cr:
+    github: sol-vin/raylib-cr
+
+license: MIT
