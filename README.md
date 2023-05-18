@@ -20,6 +20,8 @@ on openSUSE: `zypper in libraylib raylib-devel`
 
 - any contribution is welcome!
 
+Currently the effect is implemented only on CPU so it's pretty intensive. Would be nice to see it as a pixel shader
+
 ## Contributing
 
 1. Fork it (<https://github.com/your-github-user/plasmademo/fork>)
