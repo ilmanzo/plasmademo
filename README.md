@@ -2,6 +2,9 @@
 
 An old-school demo effect ported to the [Crystal Programming Language](https://crystal-lang.org/)
 
+https://github.com/ilmanzo/plasmademo/assets/1872816/4d069cf2-1874-40e5-9f34-fb8dc79fbd39
+
+
 ## Installation
 
 - install [Crystal](https://crystal-lang.org/)
