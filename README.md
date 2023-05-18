@@ -26,7 +26,7 @@ Currently the effect is implemented only on CPU so it's pretty intensive. Would 
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/plasmademo/fork>)
+1. Fork it (<https://github.com/ilmanzo/plasmademo/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
