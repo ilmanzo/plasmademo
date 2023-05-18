@@ -4,6 +4,8 @@ An old-school demo effect ported to the [Crystal Programming Language](https://c
 
 https://github.com/ilmanzo/plasmademo/assets/1872816/4d069cf2-1874-40e5-9f34-fb8dc79fbd39
 
+thanks to the work of [Ian Rash](https://github.com/sol-vin/raylib-cr)
+
 
 ## Installation
 
