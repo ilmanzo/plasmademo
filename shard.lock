@@ -2,5 +2,5 @@ version: 2.0
 shards:
   raylib-cr:
     git: https://github.com/sol-vin/raylib-cr.git
-    version: 0.9+git.commit.48aff90c2999ea6ff9875fe967a01c28fa650024
+    version: 4.6+git.commit.875794df8662e1e38c1c5600fcf236fdc4fac8a4
 
