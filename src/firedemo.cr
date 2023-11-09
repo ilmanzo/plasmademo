@@ -15,7 +15,7 @@ colortable = StaticArray(Raylib::Color, 256).new { |x|
 pixelbuffer = Array.new(SCREEN_WIDTH*SCREEN_HEIGHT, 0)
 
 Raylib.init_window(SCREEN_WIDTH, SCREEN_HEIGHT, "Fire effect")
-Raylib.set_target_fps(30)
+Raylib.set_target_fps(60)
 
 until Raylib.close_window?
   (0...SCREEN_WIDTH).each do |x|
